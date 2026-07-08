@@ -10,15 +10,23 @@ This folder contains R scripts used for bulk RNA-seq and Plasmidsaurus DGE RNA-s
 - BTKTYZ: Primary mouse microglia Stat1 siRNA with or without IFNγ rescue.
 
 **Suggested script order**
-00_bulk_setup.R
-01_hmc3_lps_analysis.R
-02_hmc3_stat1_sirna_5SZCYD_BN4GZZ.R
-03_hmc3_stat1_sirna_lps_R4NCSL.R
-04_pmg_stat1_sirna_3BNGF5.R
-05_pmg_stat1_ifng_rescue_BTKTYZ.R
-06_bulk_module_scores.R
-07_bulk_enrichment_analysis.R
-99_bulk_session_info.R
+- 00_bulk_setup.R
+
+- 01_hmc3_lps_analysis.R
+
+- 02_hmc3_stat1_sirna_5SZCYD_BN4GZZ.R
+
+- 03_hmc3_stat1_sirna_lps_R4NCSL.R
+
+- 04_pmg_stat1_sirna_3BNGF5.R
+
+- 05_pmg_stat1_ifng_rescue_BTKTYZ.R
+
+- 06_bulk_module_scores.R
+
+- 07_bulk_enrichment_analysis.R
+
+- 99_bulk_session_info.R
 
 **Outputs**
 
