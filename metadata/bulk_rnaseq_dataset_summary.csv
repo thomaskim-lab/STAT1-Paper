@@ -1,0 +1,7 @@
+dataset_id,order_id,cell_type,species,n_samples,experiment,analysis_status
+HMC3_LPS,LPS,HMC3,Homo sapiens,X,LPS time-course,full
+HMC3_STAT1_siRNA_24h,5SZCYD,HMC3,Homo sapiens,6,STAT1 siRNA #1 and #3 24h,full
+HMC3_STAT1_siRNA_24h,BN4GZZ,HMC3,Homo sapiens,6,STAT1 siRNA #1 and #3 24h,full
+HMC3_STAT1_siRNA_LPS_48h,R4NCSL,HMC3,Homo sapiens,12,STAT1 siRNA #1 and #3 with or without LPS 48h,full
+PMG_STAT1_siRNA,3BNGF5,Primary_microglia,Mus musculus,8,Untreated LipoOnly Stat1 siRNA #1 and #3 48-72h,full
+PMG_STAT1_IFNg_rescue,BTKTYZ,Primary_microglia,Mus musculus,12,Stat1 siRNA with or without IFNg,targeted_or_pending
