@@ -15,8 +15,9 @@ This folder contains R scripts used for bulk RNA-seq and Plasmidsaurus DGE RNA-s
 - 02_hmc3_stat1_sirna_5SZCYD_BN4GZZ.R
 - 03_hmc3_stat1_sirna_lps_R4NCSL.R
 - 04_pmg_stat1_sirna_3BNGF5.R
-- 05_pmg_stat1_ifng_rescue_BTKTYZ.R
-- 06_bulk_module_scores.R
+- 05_bulk_module_scores.R
+- 06_pmg_stat1_ifng_rescue_BTKTYZ.R
+- 07_
 - 99_bulk_session_info.R
 
 **Outputs**
