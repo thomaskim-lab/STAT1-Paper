@@ -1,0 +1,21 @@
+Sample name,RT_BC,BC_sequence,Pool,pool_BC,Time,Treatment,Time_Treatment
+S54,RT_BC8,AACGCGACGT,pool_1,pool_1_AACGCGACGT,48h,LPS,48h_LPS
+S114,RT_BC11,AAGCAAGAGC,pool_1,pool_1_AAGCAAGAGC,48h,Control,48h_Control
+S125,RT_BC16,ATCCAGCATC,pool_1,pool_1_ATCCAGCATC,72h,LPS,72h_LPS
+S12,RT_BC1,ATCGGACCTA,pool_1,pool_1_ATCGGACCTA,48h,Control,48h_Control
+S36,RT_BC5,CGGATACGAA,pool_1,pool_1_CGGATACGAA,24h,Control,24h_Control
+S122,RT_BC13,CGGATTGCCG,pool_1,pool_1_CGGATTGCCG,72h,Control,72h_Control
+S24,RT_BC3,CGGCAGTAAG,pool_1,pool_1_CGGCAGTAAG,24h,Control,24h_Control
+S108,RT_BC10,CTATCTTCCT,pool_1,pool_1_CTATCTTCCT,24h,LPS,24h_LPS
+S123,RT_BC14,GAATCCTGAT,pool_1,pool_1_GAATCCTGAT,72h,Control,72h_Control
+S18,RT_BC2,GATTCCGTCC,pool_1,pool_1_GATTCCGTCC,48h,LPS,48h_LPS
+S107,RT_BC9,GCTAGCAGAA,pool_1,pool_1_GCTAGCAGAA,24h,Control,24h_Control
+S42,RT_BC6,GCTCGTTACC,pool_1,pool_1_GCTCGTTACC,24h,LPS,24h_LPS
+S30,RT_BC4,TCAATTAGGT,pool_1,pool_1_TCAATTAGGT,24h,LPS,24h_LPS
+S124,RT_BC15,TCTGGAATGA,pool_1,pool_1_TCTGGAATGA,72h,LPS,72h_LPS
+S116,RT_BC12,TGCGTGCTTG,pool_1,pool_1_TGCGTGCTTG,48h,LPS,48h_LPS
+S48,RT_BC7,TTATACGTTG,pool_1,pool_1_TTATACGTTG,48h,Control,48h_Control
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"For the fastq files, it is 10bp sample barcode + 12bp UMI. In the attachment  you could find the BC we used for each of the samples.  In R2 it is the gens body.",,,,,,,
