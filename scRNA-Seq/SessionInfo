@@ -1,0 +1,62 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 > sessionInfo()\
+R version 4.5.1 (2025-06-13)\
+Platform: aarch64-apple-darwin20\
+Running under: macOS Tahoe 26.5.2\
+\
+Matrix products: default\
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib \
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1\
+\
+locale:\
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\
+\
+time zone: Europe/Copenhagen\
+tzcode source: internal\
+\
+attached base packages:\
+[1] stats     graphics  grDevices utils     datasets  methods   base     \
+\
+other attached packages:\
+ [1] reticulate_1.43.0      EnhancedVolcano_1.26.0 patchwork_1.3.2        svglite_2.2.2         \
+ [5] lmerTest_3.2-1         lme4_1.1-38            Matrix_1.7-4           Seurat_5.4.0          \
+ [9] SeuratObject_5.2.0     sp_2.2-0               scales_1.4.0           ggrepel_0.9.6         \
+[13] lubridate_1.9.4        forcats_1.0.1          stringr_1.5.2          dplyr_1.1.4           \
+[17] purrr_1.1.0            readr_2.1.6            tidyr_1.3.1            tibble_3.3.0          \
+[21] ggplot2_4.0.0          tidyverse_2.0.0       \
+\
+loaded via a namespace (and not attached):\
+  [1] RColorBrewer_1.1-3     rstudioapi_0.17.1      jsonlite_2.0.0         magrittr_2.0.4        \
+  [5] spatstat.utils_3.2-1   farver_2.1.2           nloptr_2.2.1           ragg_1.5.0            \
+  [9] vctrs_0.6.5            ROCR_1.0-11            minqa_1.2.8            spatstat.explore_3.6-0\
+ [13] htmltools_0.5.8.1      sctransform_0.4.2      parallelly_1.45.1      KernSmooth_2.23-26    \
+ [17] htmlwidgets_1.6.4      ica_1.0-3              plyr_1.8.9             plotly_4.11.0         \
+ [21] zoo_1.8-14             igraph_2.1.4           mime_0.13              lifecycle_1.0.5       \
+ [25] pkgconfig_2.0.3        R6_2.6.1               fastmap_1.2.0          rbibutils_2.4.1       \
+ [29] fitdistrplus_1.2-4     future_1.67.0          shiny_1.11.1           digest_0.6.37         \
+ [33] numDeriv_2016.8-1.1    tensor_1.5.1           RSpectra_0.16-2        irlba_2.3.5.1         \
+ [37] textshaping_1.0.4      labeling_0.4.3         progressr_0.15.1       spatstat.sparse_3.1-0 \
+ [41] timechange_0.4.0       httr_1.4.7             polyclip_1.10-7        abind_1.4-8           \
+ [45] compiler_4.5.1         withr_3.0.2            S7_0.2.0               fastDummies_1.7.5     \
+ [49] MASS_7.3-65            tools_4.5.1            lmtest_0.9-40          httpuv_1.6.16         \
+ [53] future.apply_1.20.0    goftest_1.2-3          glue_1.8.0             nlme_3.1-168          \
+ [57] promises_1.3.3         grid_4.5.1             Rtsne_0.17             cluster_2.1.8.1       \
+ [61] reshape2_1.4.4         generics_0.1.4         gtable_0.3.6           spatstat.data_3.1-9   \
+ [65] tzdb_0.5.0             data.table_1.17.8      hms_1.1.4              utf8_1.2.6            \
+ [69] spatstat.geom_3.6-1    RcppAnnoy_0.0.22       RANN_2.6.2             pillar_1.11.0         \
+ [73] spam_2.11-1            RcppHNSW_0.6.0         limma_3.64.3           later_1.4.4           \
+ [77] splines_4.5.1          lattice_0.22-7         survival_3.8-3         deldir_2.0-4          \
+ [81] tidyselect_1.2.1       miniUI_0.1.2           pbapply_1.7-4          reformulas_0.4.4      \
+ [85] gridExtra_2.3          scattermore_1.2        statmod_1.5.1          matrixStats_1.5.0     \
+ [89] stringi_1.8.7          lazyeval_0.2.2         boot_1.3-32            codetools_0.2-20      \
+ [93] cli_3.6.5              uwot_0.2.3             xtable_1.8-4           systemfonts_1.3.1     \
+ [97] Rdpack_2.6.6           dichromat_2.0-0.1      Rcpp_1.1.0             globals_0.18.0        \
+[101] spatstat.random_3.4-3  png_0.1-8              spatstat.univar_3.1-5  parallel_4.5.1        \
+[105] dotCall64_1.2          listenv_0.9.1          viridisLite_0.4.2      ggridges_0.5.7        \
+[109] rlang_1.1.7            cowplot_1.2.0  }
